@@ -5,6 +5,11 @@ Overall, it's a pleasure to play; if you don't like low frame rates, this emulat
 What surprised me even more is that in recent versions, the author has started fixing the audio.
 I've never before seen any emulator named Project64 properly emulate sound in Top Gear Rally, but now it does.
 
+To apply the Russian localization, simply download "SatanNintendo.txt" and then place it into the emulator's "PJ64DB" folder.
+After that, launch the "Project64 1.6.2" emulator and select the Russian language.
+Here's how: File -> Language -> Русский/Russian
+Done! The emulator will now be in Russian and ready to use.
+
 Many thanks to the emulator's author, BruceShankleIV, for all the hard work! This is truly a significant contribution to emulator development!
 ………………………………………………………………….
 
@@ -16,5 +21,10 @@ Many thanks to the emulator's author, BruceShankleIV, for all the hard work! Thi
 Что удивило меня еще больше, так это то, что в последних версиях автор начал исправлять звук.
 Я никогда раньше не видел, чтобы какой-либо эмулятор под названием Project 64 должным образом эмулировал звук в Top Gear Rally,
 но теперь он это делает.
+
+Чтобы применить русскую локализацию, просто скачайте "SatanNintendo.txt" и затем поместите его в папку эмулятора "PJ64DB".
+После этого запустите эмулятор "Project 64 1.6.2" и выберите русский язык.
+Вот как это делается: File -> Language -> Русский/Russian
+Готово! Теперь эмулятор будет переведен на русский язык и готов к использованию.
 
 Огромное спасибо автору эмулятора - BruceShankleIV, за проделанную работу! Это действительно значительный вклад в развитие эмулятора!
