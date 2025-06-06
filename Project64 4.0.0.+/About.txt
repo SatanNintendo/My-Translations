@@ -1,0 +1,34 @@
+﻿Previously, this emulator had Russian language support, but the translation was outdated. Many phrases weren't quite correctly translated; I even found a spelling error (if I'm not mistaken).
+Additionally, several new text strings were added to the emulator that simply displayed in English because they didn't exist at the time of the original translation.
+
+I decided to remedy this situation and update the translation for one of the most respected emulators in the community. I wrote to the author about it but received no reply.
+I also created a thread on GitHub, but it was closed after some time, with the Russian translation being replaced by Serbian for a reason unclear to me.
+
+In any case, I don't know what's going through the project author's mind, but I'm forced to release the translation file in a separate branch.
+It seems the emulator now supports fewer languages than it originally could, which is clearly a regression.
+
+So, if you want to see the original Project64 in Russian, you need to download the "Russian.pj.Lang" file, then place it into the emulator's "Lang" folder.
+That's all. You can then open the emulator and select the language.
+
+Here's how: File -> Language -> Русский
+
+That's it; you can now use the emulator with a Russian interface.
+
+...............
+
+Раньше этот эмулятор поддерживал русский язык, но перевод был устаревшим. Многие фразы были переведены не совсем правильно; я даже нашел 
+орфографическую ошибку (если не ошибаюсь). Кроме того, в эмулятор было добавлено несколько новых текстовых строк,
+которые просто отображались на английском, поскольку на момент первоначального перевода их не было.
+
+Я решил исправить эту ситуацию и обновить перевод для одного из самых уважаемых эмуляторов в сообществе. Я написал об этом автору, но ответа не получил.
+Я также создал ветку на GitHub, но она была закрыта через некоторое время, а русский перевод был заменен на сербский по непонятной мне причине.
+
+В любом случае, я не знаю, что происходит в голове автора проекта, но я вынужден выпустить файл перевода в отдельной ветке.
+Похоже, что эмулятор теперь поддерживает меньше языков, чем мог изначально, что явно является регрессом.
+
+Итак, если вы хотите увидеть оригинальный Project64 на русском языке, вам нужно скачать файл "Russian.pj.Lang", затем поместить его в папку эмулятора "Lang".
+Вот и все. Затем вы можете открыть эмулятор и выбрать язык.
+
+Вот как: File -> Language -> Русский
+
+Вот и все; теперь вы можете использовать эмулятор с русским интерфейсом.
