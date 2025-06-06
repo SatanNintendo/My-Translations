@@ -1,0 +1,9 @@
+﻿I attempted to translate this wonderful emulator into Russian, but currently, the emulator doesn't support language switching. So, when that feature is likely implemented, this translation should be a good fit. However, it's important to understand that since there was no built-in support, I did the translation completely blind, without seeing how it would appear. This means it's an untested translation. If I get the chance, I'll definitely test it and correct any issues that arise.
+
+A huge thank you to Rosalie for this excellent emulator!
+
+………………………………………………………………….
+
+Я попытался перевести этот замечательный эмулятор на русский, но в настоящее время эмулятор не поддерживает переключение языков. Так что, когда эта функция, вероятно, будет реализована, этот перевод должен подойти. Однако важно понимать, что, поскольку встроенной поддержки не было, я делал перевод полностью вслепую, не видя, как он будет выглядеть. Это означает, что это непроверенный перевод. Если у меня будет возможность, я обязательно протестирую его и исправлю все возникающие проблемы.
+
+Огромное спасибо Rosalie за этот превосходный эмулятор!
