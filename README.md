@@ -1,6 +1,8 @@
 # My-Translations
 I am trying to translate/update translations for different programs into Russian.
+
 ...............
+
 For various reasons, some programs don't have Russian localization. Sometimes the Russian language is removed for different reasons—an author's whim is a strange thing, but they are the author, so there's not much point in arguing.
 
 That's why I decided to collect my translations here, which I'll probably be able to update if there's anything new.
