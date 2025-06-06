@@ -1,0 +1,20 @@
+﻿The Project64 1.6.2 emulator is the best fork I've ever seen. It supports various romhacks and also has the ability to run games at 60 frames per second,
+like GoldenEye 007 and many others. I personally love racing games, and titles like Destruction Derby 64 and Roadsters Trophy scroll incredibly smoothly.
+Overall, it's a pleasure to play; if you don't like low frame rates, this emulator is definitely for you.
+
+What surprised me even more is that in recent versions, the author has started fixing the audio.
+I've never before seen any emulator named Project64 properly emulate sound in Top Gear Rally, but now it does.
+
+Many thanks to the emulator's author, BruceShankleIV, for all the hard work! This is truly a significant contribution to emulator development!
+………………………………………………………………….
+
+Эмулятор Project64 1.6.2 - лучший форк, который я когда-либо видел. Он поддерживает различные ромхаки, а также позволяет
+запускать игры со скоростью 60 кадров в секунду, такие как GoldenEye 007 и многие другие.
+Лично я люблю гоночные игры, например Destruction Derby 64 и Roadsters Trophy, в них скроллинг невероятно плавный.
+В целом, играть в них одно удовольствие; если вам не нравится низкая частота кадров, этот эмулятор определенно для вас.
+
+Что удивило меня еще больше, так это то, что в последних версиях автор начал исправлять звук.
+Я никогда раньше не видел, чтобы какой-либо эмулятор под названием Project 64 должным образом эмулировал звук в Top Gear Rally,
+но теперь он это делает.
+
+Огромное спасибо автору эмулятора - BruceShankleIV, за проделанную работу! Это действительно значительный вклад в развитие эмулятора!
