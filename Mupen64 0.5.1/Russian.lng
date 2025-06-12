@@ -1,225 +1,225 @@
-[Русский / Russian]
+[Р СѓСЃСЃРєРёР№ / Russian]
 
 Translation Author = SatanNintendo
 Version = 1.0
-Creation Date = 21 Апреля 2025
+Creation Date = 21 РђРїСЂРµР»СЏ 2025
 
 
 ; ########### MENU #############
 ; File 
-File=&Файл
-Load ROM...=З&агрузить ПЗУ...
-Close ROM=&Закрыть ПЗУ
-Refresh ROM List=&Обновить список с ПЗУ
-Recent ROMs=П&оследние ПЗУ
-Freeze=&Заморозить
-Language=&Язык
-Language Information...=И&нформация о переводе...
-Exit=В&ыход
+File=&Р¤Р°Р№Р»
+Load ROM...=Р—&Р°РіСЂСѓР·РёС‚СЊ ROM...
+Close ROM=&Р—Р°РєСЂС‹С‚СЊ ROM
+Refresh ROM List=&РћР±РЅРѕРІРёС‚СЊ СЃРїРёСЃРѕРє СЃ ROM'Р°РјРё
+Recent ROMs=Рџ&РѕСЃР»РµРґРЅРёРµ ROM'С‹
+Freeze=&Р—Р°РјРѕСЂРѕР·РёС‚СЊ
+Language=&РЇР·С‹Рє
+Language Information...=Р&РЅС„РѕСЂРјР°С†РёСЏ Рѕ РїРµСЂРµРІРѕРґРµ...
+Exit=Р’&С‹С…РѕРґ
 
 ; Run 
-Run=&Эмуляция
-Reset=&Сброс
-Pause=&Пауза
-Continue=&Продолжить
-Generate Bitmap=&Сделать снимок экрана
-Save State=&Сохранить процесс
-Save As...=Сохранить &как...
-Load State=&Загрузить процесс
-Load As...=З&агрузить из...
-Current Save State=Текущее сохранение процесса
+Run=&Р­РјСѓР»СЏС†РёСЏ
+Reset=&РЎР±СЂРѕСЃ
+Pause=&РџР°СѓР·Р°
+Continue=&РџСЂРѕРґРѕР»Р¶РёС‚СЊ
+Generate Bitmap=&РЎРґРµР»Р°С‚СЊ СЃРЅРёРјРѕРє СЌРєСЂР°РЅР°
+Save State=&РЎРѕС…СЂР°РЅРёС‚СЊ РїСЂРѕС†РµСЃСЃ
+Save As...=РЎРѕС…СЂР°РЅРёС‚СЊ &РєР°Рє...
+Load State=&Р—Р°РіСЂСѓР·РёС‚СЊ РїСЂРѕС†РµСЃСЃ
+Load As...=Р—&Р°РіСЂСѓР·РёС‚СЊ РёР·...
+Current Save State=РўРµРєСѓС‰РµРµ СЃРѕС…СЂР°РЅРµРЅРёРµ РїСЂРѕС†РµСЃСЃР°
 
 ; Options 
-Options=&Опции
-Full Screen=&Во весь экран
-Video Settings...=&Настройки видео...
-Input Settings...=&Настройки ввода...
-Audio Settings...=&Настройки аудио...
-RSP Settings...=&Настройки RSP...
-Show Toolbar=Панель &инструментов
-Show Statusbar=Строка состоя&ния
-Settings...=&Настройки...
+Options=&РћРїС†РёРё
+Full Screen=&Р’Рѕ РІРµСЃСЊ СЌРєСЂР°РЅ
+Video Settings...=&РќР°СЃС‚СЂРѕР№РєРё РІРёРґРµРѕ...
+Input Settings...=&РќР°СЃС‚СЂРѕР№РєРё РІРІРѕРґР°...
+Audio Settings...=&РќР°СЃС‚СЂРѕР№РєРё Р°СѓРґРёРѕ...
+RSP Settings...=&РќР°СЃС‚СЂРѕР№РєРё RSP...
+Show Toolbar=РџР°РЅРµР»СЊ &РёРЅСЃС‚СЂСѓРјРµРЅС‚РѕРІ
+Show Statusbar=РЎС‚СЂРѕРєР° СЃРѕСЃС‚РѕСЏ&РЅРёСЏ
+Settings...=&РќР°СЃС‚СЂРѕР№РєРё...
 
 ; Utilities menu
-Utilities=&Утилиты
-ROM Properties...=Свойства &ПЗУ...
-Audit ROMs...=&Проверка ПЗУ...
-Benchmark...=&Эталон...
-Generate ROM Info...=&Сгенерировать информацию о ПЗУ...
-Show Log Window=&Показать окно журнала
+Utilities=&РЈС‚РёР»РёС‚С‹
+ROM Properties...=РЎРІРѕР№СЃС‚РІР° &ROM'Р°...
+Audit ROMs...=&РџСЂРѕРІРµСЂРєР° ROM'РѕРІ...
+Benchmark...=&Р­С‚Р°Р»РѕРЅ...
+Generate ROM Info...=&РЎРіРµРЅРµСЂРёСЂРѕРІР°С‚СЊ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ ROM'Рµ...
+Show Log Window=&РџРѕРєР°Р·Р°С‚СЊ РѕРєРЅРѕ Р¶СѓСЂРЅР°Р»Р°
 Kaillera...=Kaillera...
-Record=Запись
-Start Recording...=Начать запись...
-Stop Recording=Остановить запись
-Start Playback...=Начать воспроизведение...
-Stop Playback=Остановить воспроизведение
-Start Capture (REC2AVI)...=Начать захват (REC2AVI)...
-Stop Capture=Остановить захват
+Record=Р—Р°РїРёСЃСЊ
+Start Recording...=РќР°С‡Р°С‚СЊ Р·Р°РїРёСЃСЊ...
+Stop Recording=РћСЃС‚Р°РЅРѕРІРёС‚СЊ Р·Р°РїРёСЃСЊ
+Start Playback...=РќР°С‡Р°С‚СЊ РІРѕСЃРїСЂРѕРёР·РІРµРґРµРЅРёРµ...
+Stop Playback=РћСЃС‚Р°РЅРѕРІРёС‚СЊ РІРѕСЃРїСЂРѕРёР·РІРµРґРµРЅРёРµ
+Start Capture (REC2AVI)...=РќР°С‡Р°С‚СЊ Р·Р°С…РІР°С‚ (REC2AVI)...
+Stop Capture=РћСЃС‚Р°РЅРѕРІРёС‚СЊ Р·Р°С…РІР°С‚
 
 
 ; Help  
-Help=&Помощь
-Contents...=&Содержание...    
-Whats new...=&Что нового...
-About...=&О Mupen64...
+Help=&РџРѕРјРѕС‰СЊ
+Contents...=&РЎРѕРґРµСЂР¶Р°РЅРёРµ...    
+Whats new...=&Р§С‚Рѕ РЅРѕРІРѕРіРѕ...
+About...=&Рћ Mupen64...
 
 
 ; ########### CONTEXT MENU #############
-Play Game=Играть в игру
+Play Game=РРіСЂР°С‚СЊ РІ РёРіСЂСѓ
 
 
 ; ######### CONFIG DIALOG ##########
-Settings=Настройки
-Ok=Ок
-Cancel=Отмена
+Settings=РќР°СЃС‚СЂРѕР№РєРё
+Ok=РћРє
+Cancel=РћС‚РјРµРЅР°
 
 ; ## Plugins##
-Video Plugin=Плагин видео
-Input Plugin=Плагин управления
-Sound Plugin=Плагин звука
-RSP Plugin=Плагин RSP
-Config=Настроить
-Test=Тест
-Plugin About=О плагине
-Config Plugins=Плагины
+Video Plugin=РџР»Р°РіРёРЅ РІРёРґРµРѕ
+Input Plugin=РџР»Р°РіРёРЅ СѓРїСЂР°РІР»РµРЅРёСЏ
+Sound Plugin=РџР»Р°РіРёРЅ Р·РІСѓРєР°
+RSP Plugin=РџР»Р°РіРёРЅ RSP
+Config=РќР°СЃС‚СЂРѕРёС‚СЊ
+Test=РўРµСЃС‚
+Plugin About=Рћ РїР»Р°РіРёРЅРµ
+Config Plugins=РџР»Р°РіРёРЅС‹
 
 
 ; ## Directories ##
-Directories=Каталоги
-Use directory recursion=Использовать рекурсию каталогов
-Add=Добавить
-Remove=Удалить
-Remove All=Удалить всё
-ROMs Directories=Каталоги ПЗУ 
-;Select Current ROM Browser Directory=Выберите текущий каталог с ПЗУ
-Plugins Directory=Каталог с плагинами
-Saves Directory=Каталог с сохранениями
-Screenshots Directory=Каталог со снимками экрана
-Choose=Выбрать...
+Directories=РљР°С‚Р°Р»РѕРіРё
+Use directory recursion=РСЃРїРѕР»СЊР·РѕРІР°С‚СЊ СЂРµРєСѓСЂСЃРёСЋ РєР°С‚Р°Р»РѕРіРѕРІ
+Add=Р”РѕР±Р°РІРёС‚СЊ
+Remove=РЈРґР°Р»РёС‚СЊ
+Remove All=РЈРґР°Р»РёС‚СЊ РІСЃС‘
+ROMs Directories=РљР°С‚Р°Р»РѕРіРё СЃ ROM'Р°РјРё 
+;Select Current ROM Browser Directory=Р’С‹Р±РµСЂРёС‚Рµ С‚РµРєСѓС‰РёР№ РєР°С‚Р°Р»РѕРі СЃ ROM'Р°РјРё
+Plugins Directory=РљР°С‚Р°Р»РѕРі СЃ РїР»Р°РіРёРЅР°РјРё
+Saves Directory=РљР°С‚Р°Р»РѕРі СЃ СЃРѕС…СЂР°РЅРµРЅРёСЏРјРё
+Screenshots Directory=РљР°С‚Р°Р»РѕРі СЃРѕ СЃРЅРёРјРєР°РјРё СЌРєСЂР°РЅР°
+Choose=Р’С‹Р±СЂР°С‚СЊ...
 
 
 ; ## General ##
-General=Основные
-Alerts=Уведомления
-Alert Bad ROM=Уведомлять о плохом ПЗУ
-Alert Hacked ROM=Уведомлять о хакнутом ПЗУ
-Alert Saves errors=Уведомлять о ошибках сохранения
+General=РћСЃРЅРѕРІРЅС‹Рµ
+Alerts=РЈРІРµРґРѕРјР»РµРЅРёСЏ
+Alert Bad ROM=РЈРІРµРґРѕРјР»СЏС‚СЊ Рѕ РїР»РѕС…РѕРј ROM"Рµ
+Alert Hacked ROM=РЈРІРµРґРѕРјР»СЏС‚СЊ Рѕ С…Р°РєРЅСѓС‚РѕРј ROM'Рµ
+Alert Saves errors=РЈРІРµРґРѕРјР»СЏС‚СЊ Рѕ РѕС€РёР±РєР°С… СЃРѕС…СЂР°РЅРµРЅРёСЏ
 Fps / VIs=Fps / VIs
-Limit fps (auto)=Ограничить fps (авто)
-Use Speed Modifier=Использовать модификатор скорости
-Show FPS=Показывать FPS
-Show VIs=Показывать VIs
-CPU Core=Ядро ЦП
-Interpreter=Интерпритатор
-Dynamic Recompiler=Динамический рекомпилятор
-Pure Interpreter=Чистый интерпретатор
-Ini File=Ini-файл
-Use compressed file=Использовать сжатый файл
+Limit fps (auto)=РћРіСЂР°РЅРёС‡РёС‚СЊ fps (Р°РІС‚Рѕ)
+Use Speed Modifier=РСЃРїРѕР»СЊР·РѕРІР°С‚СЊ РјРѕРґРёС„РёРєР°С‚РѕСЂ СЃРєРѕСЂРѕСЃС‚Рё
+Show FPS=РџРѕРєР°Р·С‹РІР°С‚СЊ FPS
+Show VIs=РџРѕРєР°Р·С‹РІР°С‚СЊ VIs
+CPU Core=РЇРґСЂРѕ Р¦Рџ
+Interpreter=РРЅС‚РµСЂРїСЂРёС‚Р°С‚РѕСЂ
+Dynamic Recompiler=Р”РёРЅР°РјРёС‡РµСЃРєРёР№ СЂРµРєРѕРјРїРёР»СЏС‚РѕСЂ
+Pure Interpreter=Р§РёСЃС‚С‹Р№ РёРЅС‚РµСЂРїСЂРµС‚Р°С‚РѕСЂ
+Ini File=Ini-С„Р°Р№Р»
+Use compressed file=РСЃРїРѕР»СЊР·РѕРІР°С‚СЊ СЃР¶Р°С‚С‹Р№ С„Р°Р№Р»
 
 
 ; ## Advanced Settings ##
-Advanced Settings=Расширенные
-Common Options=Общие параметры
-Start Game in full screen=Запускать игру во весь экран
-Pause when not active=Приостановить эмуляцию, когда окно неактивно
-Use global plugins settings=Использовать настройки плагинов
-Show toolbar=Отображать панель инструментов
-Show statusbar=Отображать строку состояния
-Compatibility Options=Параметры совместимости
-No audio delay=Без задержки звука (исправит некоторые проблемы совместимости, звук не будет синхронен с видео)
-No compiled jump=Без скомпилированного перехода (улучшает совместимость за счет некоторой потери скорости)
-Rombrowser Columns=Столбцы окна с ПЗУ
-GoodName=Название как в GoodN64
-Internal Name=Внутреннее название
-Country=Страна
-ROM size=Размер ПЗУ
-Comments=Примечания
-File Name=Имя файла
+Advanced Settings=Р Р°СЃС€РёСЂРµРЅРЅС‹Рµ
+Common Options=РћР±С‰РёРµ РїР°СЂР°РјРµС‚СЂС‹
+Start Game in full screen=Р—Р°РїСѓСЃРєР°С‚СЊ РёРіСЂСѓ РІРѕ РІРµСЃСЊ СЌРєСЂР°РЅ
+Pause when not active=РџСЂРёРѕСЃС‚Р°РЅРѕРІРёС‚СЊ СЌРјСѓР»СЏС†РёСЋ, РєРѕРіРґР° РѕРєРЅРѕ РЅРµР°РєС‚РёРІРЅРѕ
+Use global plugins settings=РСЃРїРѕР»СЊР·РѕРІР°С‚СЊ РЅР°СЃС‚СЂРѕР№РєРё РїР»Р°РіРёРЅРѕРІ
+Show toolbar=РћС‚РѕР±СЂР°Р¶Р°С‚СЊ РїР°РЅРµР»СЊ РёРЅСЃС‚СЂСѓРјРµРЅС‚РѕРІ
+Show statusbar=РћС‚РѕР±СЂР°Р¶Р°С‚СЊ СЃС‚СЂРѕРєСѓ СЃРѕСЃС‚РѕСЏРЅРёСЏ
+Compatibility Options=РџР°СЂР°РјРµС‚СЂС‹ СЃРѕРІРјРµСЃС‚РёРјРѕСЃС‚Рё
+No audio delay=Р‘РµР· Р·Р°РґРµСЂР¶РєРё Р·РІСѓРєР° (РёСЃРїСЂР°РІРёС‚ РЅРµРєРѕС‚РѕСЂС‹Рµ РїСЂРѕР±Р»РµРјС‹ СЃРѕРІРјРµСЃС‚РёРјРѕСЃС‚Рё, Р·РІСѓРє РЅРµ Р±СѓРґРµС‚ СЃРёРЅС…СЂРѕРЅРµРЅ СЃ РІРёРґРµРѕ)
+No compiled jump=Р‘РµР· СЃРєРѕРјРїРёР»РёСЂРѕРІР°РЅРЅРѕРіРѕ РїРµСЂРµС…РѕРґР° (СѓР»СѓС‡С€Р°РµС‚ СЃРѕРІРјРµСЃС‚РёРјРѕСЃС‚СЊ Р·Р° СЃС‡РµС‚ РЅРµРєРѕС‚РѕСЂРѕР№ РїРѕС‚РµСЂРё СЃРєРѕСЂРѕСЃС‚Рё)
+Rombrowser Columns=РЎС‚РѕР»Р±С†С‹ РѕРєРЅР° СЃ ROM'Р°РјРё
+GoodName=РќР°Р·РІР°РЅРёРµ РєР°Рє РІ GoodN64
+Internal Name=Р’РЅСѓС‚СЂРµРЅРЅРµРµ РЅР°Р·РІР°РЅРёРµ
+Country=РЎС‚СЂР°РЅР°
+ROM size=Р Р°Р·РјРµСЂ ROM'Р°
+Comments=РџСЂРёРјРµС‡Р°РЅРёСЏ
+File Name=РРјСЏ С„Р°Р№Р»Р°
 MD5=MD5
 
 
 ; ######### AUDIT ROMS DIALOG ##########
-Audit Total ROMs=Всего ПЗУ:
-Audit Current ROM=Текущий ПЗУ:
-Audit File Location=Расположение файла:
-Audit ROMs=Проверка ПЗУ
-Start=Начать
-Stop=Остановить
-Close=Закрыть
+Audit Total ROMs=Р’СЃРµРіРѕ ROM'РѕРІ:
+Audit Current ROM=РўРµРєСѓС‰РёР№ ROM:
+Audit File Location=Р Р°СЃРїРѕР»РѕР¶РµРЅРёРµ С„Р°Р№Р»Р°:
+Audit ROMs=РџСЂРѕРІРµСЂРєР° ROM'РѕРІ
+Start=РќР°С‡Р°С‚СЊ
+Stop=РћСЃС‚Р°РЅРѕРІРёС‚СЊ
+Close=Р—Р°РєСЂС‹С‚СЊ
 
 
 ; ######## ROM PROPERTIES DIALOG ########
-ROM Properties=Свойства ПЗУ
+ROM Properties=РЎРІРѕР№СЃС‚РІР° ROM'Р°
 
-RP ROM Information=Информация о ПЗУ:
-RP File Location=Путь:
+RP ROM Information=РРЅС„РѕСЂРјР°С†РёСЏ Рѕ ROM'Рµ:
+RP File Location=РџСѓС‚СЊ:
 RP Good Name=GoodN64:
-RP Internal Name=Внутренн.:
-RP Size=Размер:
-RP Country=Страна:
-RP Ini Code=Ini-код:
-RP MD5 Checksum=Контр. MD5:
-RP Calculate= Рассчитать
+RP Internal Name=Р’РЅСѓС‚СЂРµРЅРЅ.:
+RP Size=Р Р°Р·РјРµСЂ:
+RP Country=РЎС‚СЂР°РЅР°:
+RP Ini Code=Ini-РєРѕРґ:
+RP MD5 Checksum=РљРѕРЅС‚СЂ. MD5:
+RP Calculate= Р Р°СЃСЃС‡РёС‚Р°С‚СЊ
 
-RP Plugins=Плагины:
-RP Video Plugin=Плагин видео:
-RP Sound Plugin=Плагин аудио:
-RP Input Plugin=Плагин ввода:
-RP RSP Plugin=Плагин RSP:
-RP Save Plugins=Сохранить
+RP Plugins=РџР»Р°РіРёРЅС‹:
+RP Video Plugin=РџР»Р°РіРёРЅ РІРёРґРµРѕ:
+RP Sound Plugin=РџР»Р°РіРёРЅ Р°СѓРґРёРѕ:
+RP Input Plugin=РџР»Р°РіРёРЅ РІРІРѕРґР°:
+RP RSP Plugin=РџР»Р°РіРёРЅ RSP:
+RP Save Plugins=РЎРѕС…СЂР°РЅРёС‚СЊ
 
-RP Comments=Примечан.:
+RP Comments=РџСЂРёРјРµС‡Р°РЅ.:
 
 
 ; ####### LANGUAGE INFO DIALOG ########
-Translation Author TEXT=Автор перевода:
-Version TEXT=Версия:
-Creation Date TEXT=Дата создания:
-Language Information Dialog=Информация о переводе
+Translation Author TEXT=РђРІС‚РѕСЂ РїРµСЂРµРІРѕРґР°:
+Version TEXT=Р’РµСЂСЃРёСЏ:
+Creation Date TEXT=Р”Р°С‚Р° СЃРѕР·РґР°РЅРёСЏ:
+Language Information Dialog=РРЅС„РѕСЂРјР°С†РёСЏ Рѕ РїРµСЂРµРІРѕРґРµ
 
 ; ######### ROM BROWSER STRINGS #######
-Good Name=Название
-File Name=Название файла
-Size=Размер
-Comments=Примечания
-Country=Страна
-Demo=Демо
-Beta=Бета
-USA/Japan=США/Япония
-German=Германия
-USA=США	
-France=Франция
-Italy=Италия
-Japan=Япония
-Europe=Европа
-Spain=Испания
-Australia=Австралия
-Unknown=Неизвестно
+Good Name=РќР°Р·РІР°РЅРёРµ
+File Name=РќР°Р·РІР°РЅРёРµ С„Р°Р№Р»Р°
+Size=Р Р°Р·РјРµСЂ
+Comments=РџСЂРёРјРµС‡Р°РЅРёСЏ
+Country=РЎС‚СЂР°РЅР°
+Demo=Р”РµРјРѕ
+Beta=Р‘РµС‚Р°
+USA/Japan=РЎРЁРђ/РЇРїРѕРЅРёСЏ
+German=Р“РµСЂРјР°РЅРёСЏ
+USA=РЎРЁРђ	
+France=Р¤СЂР°РЅС†РёСЏ
+Italy=РС‚Р°Р»РёСЏ
+Japan=РЇРїРѕРЅРёСЏ
+Europe=Р•РІСЂРѕРїР°
+Spain=РСЃРїР°РЅРёСЏ
+Australia=РђРІСЃС‚СЂР°Р»РёСЏ
+Unknown=РќРµРёР·РІРµСЃС‚РЅРѕ
 
 ; ######### STATUS BAR STRINGS ###########
-Emulation started=Эмуляция запущена
-Rom Closed=ПЗУ закрыт
-Emulation paused=Эмуляция на паузе
-Loading ROM...=Загрузка ПЗУ...
-Total ROMs=Всего ПЗУ
-Recording replay...=Воспроизведение записи...
-Recording stopped=Запись остановлена
-Playback started...=Воспроизведение запущено...
-Playback stopped=Воспроизведение остановлено
-Converting replay to avi...=Преобразовать повтор в avi...
-Converting aborted=Преобразование прервано
-Speed Limit=Ограничение скорости
+Emulation started=Р­РјСѓР»СЏС†РёСЏ Р·Р°РїСѓС‰РµРЅР°
+Rom Closed=ROM Р·Р°РєСЂС‹С‚
+Emulation paused=Р­РјСѓР»СЏС†РёСЏ РЅР° РїР°СѓР·Рµ
+Loading ROM...=Р—Р°РіСЂСѓР·РєР° ROM'Р°...
+Total ROMs=Р’СЃРµРіРѕ ROM'РѕРІ
+Recording replay...=Р’РѕСЃРїСЂРѕРёР·РІРµРґРµРЅРёРµ Р·Р°РїРёСЃРё...
+Recording stopped=Р—Р°РїРёСЃСЊ РѕСЃС‚Р°РЅРѕРІР»РµРЅР°
+Playback started...=Р’РѕСЃРїСЂРѕРёР·РІРµРґРµРЅРёРµ Р·Р°РїСѓС‰РµРЅРѕ...
+Playback stopped=Р’РѕСЃРїСЂРѕРёР·РІРµРґРµРЅРёРµ РѕСЃС‚Р°РЅРѕРІР»РµРЅРѕ
+Converting replay to avi...=РџСЂРµРѕР±СЂР°Р·РѕРІР°С‚СЊ РїРѕРІС‚РѕСЂ РІ avi...
+Converting aborted=РџСЂРµРѕР±СЂР°Р·РѕРІР°РЅРёРµ РїСЂРµСЂРІР°РЅРѕ
+Speed Limit=РћРіСЂР°РЅРёС‡РµРЅРёРµ СЃРєРѕСЂРѕСЃС‚Рё
 
 
 ; ######### TOOLTIPS ############
-Start/Resume Emulation=Запуск/возобновление эмуляции
-Pause Emulation=Пауза эмуляции
-Stop Emulation=Остановить эмуляцию
+Start/Resume Emulation=Р—Р°РїСѓСЃРє/РІРѕР·РѕР±РЅРѕРІР»РµРЅРёРµ СЌРјСѓР»СЏС†РёРё
+Pause Emulation=РџР°СѓР·Р° СЌРјСѓР»СЏС†РёРё
+Stop Emulation=РћСЃС‚Р°РЅРѕРІРёС‚СЊ СЌРјСѓР»СЏС†РёСЋ
 ; These are already implented:
-; Load ROM...=Загрузить ПЗУ...
-; Full Screen=Во весь экран
-; Video Settings...=Настройки видео...
-; Sound Settings...=Настройки звука...
-; Input Settings....=Настройки управления...
-; RSP Config...=Настройки RSP...
-; Settings...=Настройки...
+; Load ROM...=Р—Р°РіСЂСѓР·РёС‚СЊ ROM...
+; Full Screen=Р’Рѕ РІРµСЃСЊ СЌРєСЂР°РЅ
+; Video Settings...=РќР°СЃС‚СЂРѕР№РєРё РІРёРґРµРѕ...
+; Sound Settings...=РќР°СЃС‚СЂРѕР№РєРё Р·РІСѓРєР°...
+; Input Settings....=РќР°СЃС‚СЂРѕР№РєРё СѓРїСЂР°РІР»РµРЅРёСЏ...
+; RSP Config...=РќР°СЃС‚СЂРѕР№РєРё RSP...
+; Settings...=РќР°СЃС‚СЂРѕР№РєРё...
